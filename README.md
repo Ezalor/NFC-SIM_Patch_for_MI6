@@ -15,5 +15,6 @@ ro.se.type=eSE,HCE,UICC
 ```
 NXP_NFCC_STANDBY_TIMEOUT=20000
 ```
-...（此处需要替换整个文件）
+   （此处需要替换整个文件）
+
 3. 替换 `\system\vendor\lib64\hw\nfc_nci.nqx.default.so`
