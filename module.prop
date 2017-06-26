@@ -1,7 +1,7 @@
 id=NFC-SIM_Patch_for_MI6
 name=恢复 MI 6 的 NFC-SIM 功能
-version=v1
-versionCode=1
+version=v1.1-test
+versionCode=2
 author=Ezalor
 description=恢复小米 MI 6 的 NFC-SIM 功能。
 template=3

@@ -2,6 +2,10 @@
 恢复小米 MI 6 的 NFC-SIM 功能。
 
 ## 更新日志
+v1.1-test
+
+    - 测试（根据 7.6.26）
+
 v1
 
     - 第一版 （First Attempt）
@@ -11,10 +15,10 @@ v1
 ```
 ro.se.type=eSE,HCE,UICC
 ```
-2. 修改 `\system\etc\libnfc-nxp.conf` 中
-```
-NXP_NFCC_STANDBY_TIMEOUT=20000
-```
-   （此处需要替换整个文件）
+~~2. 修改 `\system\etc\libnfc-nxp.conf` 中~~
+
+~~NXP_NFCC_STANDBY_TIMEOUT=20000~~
+
+   ~~（此处需要替换整个文件）~~
 
 3. 替换 `\system\vendor\lib64\hw\nfc_nci.nqx.default.so`
