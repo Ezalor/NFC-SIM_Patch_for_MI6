@@ -1,0 +1,2 @@
+nfc_nci.nqx.default.so
+99C7B035
